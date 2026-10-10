@@ -1,0 +1,10 @@
+{
+  "name": "NoTerrainPenalty",
+  "version_number": "1.0.1",
+  "website_url": "",
+  "description": "Only creatures count toward the melee multi-hit damage penalty. Ground, walls, rocks and trees no longer cut your damage on slopes or in dungeons. Hitting several enemies still uses the vanilla penalty. Server synced.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2351",
+    "ValheimModding-Jotunn-2.30.2"
+  ]
+}
