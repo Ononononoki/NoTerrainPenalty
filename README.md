@@ -1,6 +1,6 @@
 # NoTerrainPenalty
 
-Only creatures count toward the melee multi-hit damage penalty. Ground, walls, rocks and trees no longer cut your damage on slopes or in dungeons. Hitting several enemies still uses the vanilla penalty. Server synced.
+Only creatures count toward the melee multi-hit damage penalty, so ground, walls, rocks and trees no longer cut your damage. Hitting several enemies keeps the vanilla penalty. Server synced.
 
 A Valheim mod by Onononoki. Get it on Thunderstore: https://thunderstore.io/c/valheim/p/Onononoki/NoTerrainPenalty/
 
@@ -8,7 +8,7 @@ The full description, settings and changelog are in [package/README.md](package/
 
 ## Bug reports and feedback
 
-Open an issue here: https://github.com/Ononononoki/NoTerrainPenalty/issues. If something breaks, please add your mod list and the BepInEx log (`BepInEx/LogOutput.log`).
+Bug reports and ideas: open an issue at https://github.com/Ononononoki/NoTerrainPenalty/issues. If something breaks, please add your mod list and the BepInEx log (`BepInEx/LogOutput.log`).
 
 ## Building
 
